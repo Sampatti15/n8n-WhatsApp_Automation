@@ -14,7 +14,7 @@ const client = new Client({
 
 // Your local n8n Webhook URL
 const N8N_WEBHOOK =
-    'http://localhost:5678/webhook-test/whatsapp-in';
+    '';
 
 client.on('qr', (qr) => {
     const qrcode = require('qrcode-terminal');
