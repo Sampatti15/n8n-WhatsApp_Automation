@@ -52,7 +52,7 @@ It provides conversational responses to common cafe-related questions without re
 <img src="ScreenShots/Google Sheet-Orders.png" alt="Google Sheet" width="500">
 
 ### Wp Chats
-<img src="ScreenShots/Wp Chat.png" alt="Google Sheet" width="500">
+<img src="ScreenShots/Wp Chat.png" alt="Wp Chat" width="500">
 
 ## 💻 Local Setup
 
