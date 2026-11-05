@@ -51,6 +51,9 @@ It provides conversational responses to common cafe-related questions without re
 ### Google Sheet-Orders
 <img src="ScreenShots/Google Sheet-Orders.png" alt="Google Sheet" width="500">
 
+### Wp Chats
+<img src="ScreenShots/Wp Chat.png" alt="Google Sheet" width="500">
+
 ## 💻 Local Setup
 
 ### Prerequisites
