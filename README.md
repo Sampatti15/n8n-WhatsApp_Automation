@@ -46,12 +46,10 @@ It provides conversational responses to common cafe-related questions without re
 ## 📸 Project Screenshots
 
 ### n8n Workflow
-"C:\n8n-WhatsApp_Automation\ScreenShots\Workflow.png"
+<img src="Screenshots/workflow.png" alt="n8n Workflow" width="500">
 
-### Google-Sheet Orders
-"C:\n8n-WhatsApp_Automation\ScreenShots\Google Sheet-Orders.png"
-
-
+### Google Sheet-Orders
+<img src="Screenshots/Google Sheet-Orders.png" alt="Google Sheet" width="500">
 
 ## 💻 Local Setup
 
@@ -65,13 +63,13 @@ It provides conversational responses to common cafe-related questions without re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sampatti15/WhatsApp-AI-Cafe-Receptionist.git
+git clone https://github.com/Sampatti15/n8n-WhatsApp_Automation.git
 ```
 
 ### 2. Open the Project Folder
 
 ```bash
-cd WhatsApp-AI-Hotel-Receptionist
+cd n8n-WhatsApp_Automation
 ```
 
 ### 3. Install Dependencies
