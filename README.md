@@ -46,10 +46,10 @@ It provides conversational responses to common cafe-related questions without re
 ## 📸 Project Screenshots
 
 ### n8n Workflow
-<img src="Screenshots/workflow.png" alt="n8n Workflow" width="500">
+<img src="ScreenShots/workflow.png" alt="n8n Workflow" width="500">
 
 ### Google Sheet-Orders
-<img src="Screenshots/Google Sheet-Orders.png" alt="Google Sheet" width="500">
+<img src="ScreenShots/Google Sheet-Orders.png" alt="Google Sheet" width="500">
 
 ## 💻 Local Setup
 
