@@ -46,14 +46,17 @@ It provides conversational responses to common cafe-related questions without re
 ## 📸 Project Screenshots
 
 ### n8n Workflow
+---
 <img width="500" alt="Edited Workflow" src="https://github.com/user-attachments/assets/f6f3f722-7b71-4f20-b6a0-8aa3d3601446" />
 ---
 
 ### Google Sheet-Orders
+---
 <img width="500" alt="Google Sheet-Orders" src="https://github.com/user-attachments/assets/9b1fa9b1-3711-482c-9c96-26d135c2616e" />
 ---
 
 ### Wp Chats
+---
 <img width="500" alt="Wp Chat" src="https://github.com/user-attachments/assets/9bc21096-5146-4f26-bf0d-43f1d10afcc5" />
 ---
 
