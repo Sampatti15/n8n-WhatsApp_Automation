@@ -125,5 +125,6 @@ Keep n8n and the bot running while testing.
 **Sampatti Borse**
 
 GitHub: https://github.com/Sampatti15
+<br>
 LinkedIn: https://lnkd.in/p/djYc6YFN
 
